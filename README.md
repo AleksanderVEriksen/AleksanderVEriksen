@@ -63,9 +63,12 @@ I'm Aleksander - I am a graduated master student in applied computer science who
 
 [![My Skills](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev)
 
-[![GitHub Streak](https://github-readme-streak-stats-nine-sooty.vercel.app?user=AleksanderVEriksen&theme=github-dark&fire=EBA616)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-nine-sooty.vercel.app?user=AleksanderVEriksen&theme=github-dark&fire=EBA61)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksanderVEriksen&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksanderVEriksen&layout=compact&hide=jupyter%20notebook)](https://github.com/AleksanderVEriksen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksanderVEriksen&layout=compact&hide=jupyter%20notebook&theme=github_dark)](https://github.com/AleksanderVEriksen/github-readme-stats)
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AleksanderVEriksen&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
