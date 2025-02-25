@@ -51,7 +51,7 @@ I'm Aleksander - I am a graduated master student in applied computer science who
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions)](https://skillicons.dev)
 
-#### IDes
+#### IDEs
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,eclipse,atom,pycharm,anaconda)](https://skillicons.dev)
 
