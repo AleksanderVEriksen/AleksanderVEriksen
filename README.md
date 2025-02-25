@@ -69,6 +69,6 @@ I'm Aleksander - I am a graduated master student in applied computer science who
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksanderVEriksen&layout=compact&hide=jupyter%20notebook&theme=github_dark)](https://github.com/AleksanderVEriksen/github-readme-stats)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AleksanderVEriksen&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AleksanderVE&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
