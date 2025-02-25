@@ -22,7 +22,7 @@ I'm Aleksander - I am a graduated master student in applied computer science who
 <br>
   
 <a href = "https://aleksanderveriksen.no" target="_blank"> 
-<img src = "https://img.shields.io/badge/PORTFOLIO-orange?logo=pinboard" target="_blank"/>
+<img src = "https://img.shields.io/badge/PORTFOLIO-orange?logo=pinboard"/>
 </a>
 
 <h3 align="center"> Language-Frameworks-Tools </h3>
