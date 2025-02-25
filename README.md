@@ -1,4 +1,4 @@
-## Hi There! 👋
+## Hi There! 👋  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AleksanderVEriksen.AleksanderVEriksen" />
 
 <!--
 **AleksanderVEriksen/AleksanderVEriksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 I'm Aleksander - I am a graduated master student in applied computer science who likes to develop my skills within programming. I love to explore new technology within ML & AI, while also doing side project such as learning frontend and backend for websites or applications. My main programming language is Python because of its vast collection of libraries one can use to add key functionalities to applications. In my free time i enjoy gaming, cooking, weight training or be with my friends.
 
-<ins>Check out my website!</ins><br>🔗[Portfolio - Work in progress](aleksanderveriksen.no)
+<br>
+<br>
+<br>
+  
+<a href = "www.aleksanderveriksen.no" target="_blank"> 
+<img src = "https://img.shields.io/badge/PORTFOLIO-orange?logo=pinboard" target="_blank"/>
+</a>
 
-### Here is a list for language frameworks ive worked with
-<p align="left">
+<h3 align="center"> Language-Frameworks-Tools </h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,bash,azure,java,react,html,css,js,python,mysql" />
   </a>
@@ -62,3 +69,4 @@ I'm Aleksander - I am a graduated master student in applied computer science who
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksanderVEriksen&show_icons=true&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksanderVEriksen&layout=compact&hide=jupyter%20notebook)](https://github.com/AleksanderVEriksen/github-readme-stats)
+</div>
