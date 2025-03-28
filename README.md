@@ -1,4 +1,4 @@
-## Hi There! 👋  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AleksanderVEriksen.AleksanderVEriksen" />
+## Hi There! I'm Aleksander👋  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AleksanderVEriksen.AleksanderVEriksen" />
 
 <!--
 **AleksanderVEriksen/AleksanderVEriksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-I'm Aleksander - I am a graduated master student in applied computer science who likes to develop my skills within programming. I love to explore new technology within ML & AI, while also doing side project such as learning frontend and backend for websites or applications. My main programming language is Python because of its vast collection of libraries one can use to add key functionalities to applications. In my free time i enjoy gaming, cooking, weight training or be with my friends.
-
+   
+<ul align="left">
+ 
+   <li> I am a graduated master student in applied computer science who likes to develop my skills within programming. I love to explore new technology within ML & AI, while also doing side project such as learning frontend and backend for websites or applications. 
+      <li>My main programming language is Python because of its vast collection of libraries one can use to add key functionalities to applications.</li> 
+   <li>In my free time i enjoy gaming, cooking, weight training or be with my friends.</li>
+   <li> I'm currently learning AI engineering with IBM certificate</li>
+</ul>
 <br>
 <br>
 <br>
