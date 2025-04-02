@@ -23,9 +23,6 @@ Here are some ideas to get you started:
    <li>In my free time i enjoy gaming, cooking, weight training or be with my friends.</li>
    <li> I'm currently learning AI engineering with IBM certificate</li>
 </ul>
-<br>
-<br>
-<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alekveriksen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksander-eriksen-788928255) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eriksen1998@live.no) 
@@ -70,7 +67,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev)
 
-[![GitHub Streak](https://github-readme-streak-stats-nine-sooty.vercel.app?user=AleksanderVEriksen&theme=github-dark&fire=EBA61)](https://git.io/streak-stats)
+![Github Streak](https://nirzak-streak-stats.vercel.app/?user=AleksanderVEriksen&theme=github_dark&fire=EBA61)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksanderVEriksen&show_icons=true&theme=github_dark)
 
@@ -92,4 +89,3 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=AleksanderVEriksen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
