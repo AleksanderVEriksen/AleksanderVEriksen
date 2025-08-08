@@ -21,7 +21,7 @@ Here are some ideas to get you started:
    <li> I am a graduated master student in applied computer science who likes to develop my skills within programming. I love to explore new technology within ML & AI, while also doing side project such as learning frontend and backend for websites or applications. 
       <li>My main programming language is Python because of its vast collection of libraries one can use to add key functionalities to applications.</li> 
    <li>In my free time i enjoy gaming, cooking, weight training or be with my friends.</li>
-   <li> I'm currently learning AI engineering with IBM certificate</li>
+   <li> I'm currently enhancing my skillset in ML & AI by taking various sertifications</li>
 </ul>
 
 ## 🌐 Socials:
